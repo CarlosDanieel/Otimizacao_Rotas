@@ -4,7 +4,7 @@ Neste trabalho desenvolvemos agentes inteligentes para otimizar o problema de ot
 
 ## Como executar
 
-Basicamente necessita ter uma conta Google (xxxxx@gmail.com) e acessar a página do [Google Colaboratory](https://colab.research.google.com/). Todas as bibliotecas necessárias podem ser apenas declaradas de acordo com o código descrito no projeto e para execução das células no ambiente tem-se o seguinte [vídeo](https://www.youtube.com/watch?v=inN8seMm7UI&ab_channel=TensorFlow).
+Basicamente necessita ter uma conta [Google] (https://accounts.google.com) e acessar a página do [Google Colaboratory](https://colab.research.google.com/). Todas as bibliotecas necessárias podem ser apenas declaradas de acordo com o código descrito no projeto e para execução das células no ambiente tem-se o seguinte [vídeo](https://www.youtube.com/watch?v=inN8seMm7UI&ab_channel=TensorFlow).
 
 ## Bibliotecas usadas
 
